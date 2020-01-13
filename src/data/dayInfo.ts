@@ -287,18 +287,87 @@ export default `
 10.9 | Lora | Lora-Regular.ttf | Lora 最初源于书法体，尽管设计师为了使其用于屏幕呈现做了相当程度的优化，但它似乎依然更适合出现在印刷制品上。 | |
 10.10 | Exo | Exo-Regular.ttf | 字重从细到粗有 10 种，一般一种字体会制作 4-6 个字重。而相比于#Exo 传达的科技感而言，它自己做全了 100 到 900 共 9 种字重及其对应的斜体的全覆盖更让我震撼。 | |
 10.11 | Modak | Modak-Regular.ttf | 对于笔画超级粗的字体来说，留白的那部分就变得挺重要。而 Modak 的大写 M 的那一抹「微笑」，第一眼就能留下相当好的印象。 | |
+10.12 | Rock Salt | RockSalt-Regular.ttf | 即便是用书写的方式开始创作一款新的字体，不同的笔触也会带来不同的感觉。Rock Salt 使用的就是一支签字笔，而且看上去是那种正在被文思如泉涌的人奋笔疾书的那种。 |  |
+10.13 | Big Shoulders Display | BigShouldersDisplay-Regular.ttf | Big Shoulders 为芝加哥城市 VI 标准而设计，其灵感来源于芝加哥历史悠久的铁路标识和报纸等地方所使用的字体。 | 今天是 2019 年芝加哥马拉松的比赛日，而当你看到这份日历的时候，写下这条的小编正在赛道上，祝我好运吧。 |
+10.14 | Bree Serif | BreeSerif-Regular.ttf | 相比于普通的罗马体，意大利体除了在字母整体向右倾斜之外，部分笔画也变得更柔和。而这个特点后来也被部分字体吸收，形成了「笔画柔和但并不斜」的新系列。Bree Serif 就是这种系列的代表字体之一。 |  |
+10.15 | Quattrocento | Quattrocento-Regular.ttf | 想要找一个字体表现古典的感觉？#Quattrocento 用它的名字告诉你：#「选我，一秒回到文艺复兴」。 | Quattrocento 的意思是「十五世纪」。 |
+10.16 | Raleway | Raleway-Regular.ttf | 虽然等线可以和现代画上约等号，但Raleway 依旧保留了传统字体中数字高低略带错落有致的设计，使得它额外多出了一份的优雅的感觉。 |  |
+10.17 | Titillium web | TitilliumWeb-Regular.ttf | Titillium web 由意大利的一个设计项目创造。每个学年都有十几名学生参与该项目，进一步开发并解决问题。 |  |
+10.18 | Sunflower | Sunflower-Medium.ttf | Sunflower 是一款略带可爱的韩文字体，然而使用这款字体比韩国人还频繁的居然是……印度人？ |  |
+10.19 | Questrial | Questrial-Regular.ttf | Questrial 从瑞士的设计中汲取灵感，也让它带有了一些「瑞士的」痕迹。|  Helvetica 的意思就是「瑞士的」。 |
+10.20 | Ubuntu | Ubuntu-Regular.ttf | 2004 年 10 月 20 日，Ubuntu 首个版本发布。 | |
+10.21 | M PLUS 1p | MPLUS1p-Regular.ttf | 虽然日文中有大量的汉字，然而即便是面对同样的汉字两国的设计师处理方式也不尽相同，以至于两种风格如果对换出现在对方的国度都会有一点违和。比如，M Plus 1P 其实一款日文汉字字体。 | |
+10.22 | | Mansalva-Regular.ttf | 随着技术的发展，OpenTypeFont 现在已经支持针对同一个字体的同一个字母设定不同的变体，以使得同一个字母在相邻的字母不同时能展现最自然的连接形态。 | Mansalva 正是充分利用了这种特性使得手写体看上去更接近手写的状态。可以看到字体名字里a 的两种形态。 |
+10.23 | Handlee | Handlee-Regular.ttf | 除了为字母设定变体之外，Handlee的设计师 Jon Prince 有意地轻微随机调整了部分字母的基线高度和上升部/下降部的高度，以使整体效果更接近手写——毕竟人不是机器，不可能写出完全等高的字。 |  |
+10.24 | Hack | Hack | 祝程序员们节日快乐！ | 又一款专为代码编辑设计的字体。 |
+10.25 | Domine | Domine-Regular.ttf | 作为一款为长篇阅读而设计的字体，Domine 自诞生之初就一直在 14px 和16px 两个字号下被不断调整优化。但为什么浏览器上默认的显示字号是#14px 或是 16px？ | 一个冷知识是，早期的 IE 遇到字体大小奇数就会渲染成大一号的偶数。大概后来设计师们就习惯了这个奇怪的 Bug 就这么不成文地流传下来了吧。 |
+10.26 | Amiri | Amiri-Regular.ttf | 觉得这个字体的设计偏向传统？它模仿了埃及开罗的一家报社 20 世纪初期所使用的字体，而字体名也由这家报社（Amiria Press）演化而来。 |  |
+10.27 | Gochi Hand | GochiHand-Regular.ttf | 「Gochi Hand 的字体来源于一位小女孩，相比于字体设计师刻意制作的手写体，这样的字迹跟接近于普通人的日常书写。」 |
+10.28 | Underdog | Underdog-Regular.ttf | 以前家里总吐槽撕得不整齐的（纸、保鲜膜之类的）边缘为「被狗啃过似的」，从边角和名字来看这个字体也有狗狗的功劳？ |  |
+10.29 | Hammersmith One | HammersmithOne-Regular.ttf | 乍一看以为是伦敦地铁所使用的#Johnston，再仔细一看……果然是一款学习了 Johnston 的字体。 |  |
+10.30 | Eater | Eater-Regular.ttf | Trick or Treat! | 无论是个吃糖的捣蛋鬼还是个吃可怕东西的魔#鬼，Eater 这个名字还蛮符合今天这个节日的。 |
+10.31 | Montserrat Alternates | MontserratAlternates-Regular.ttf | Montserrat 是布宜诺斯艾利斯最古老的一个街区，也是作者居住的地方。原先那里有许多字体有特色的手工制作的海报，然而伴随着城市的发展逐渐消失了。作为抢救性的记录，作者制作了这款字体来记录他心中这个街区应有的字体。 | |
+11.1 | Share | Share-Regular.ttf | 11 月到了，你手上的这份「2019字体日历」也就只剩两个月的生命了。这十个月你过得如何呢？和我们分享一下你的故事吧！ ||
+11.2 | Rochester | Rochester-Regular.ttf | 这款干练优雅的手写体，自带了古典高贵的气质，女王范十足！||
+11.3 | 站酷小薇体 | ZCOOLXiaoWei-Regular.ttf | 好一个骨骼清奇、古道仙风之作！ ||
+11.4 | Arvo | Arvo-Regular.ttf | 在芬兰语中，Arvo 的意思是：数字、数值、价值，用来给这样一款几何形状的 Slab 字体命名的确很有意思。| 不记得 Slab 是什么意思了吗？翻到 10 月 21 日的字体日历复习一下吧！ |
+11.5 | Pacifico | Pacifico-Regular.ttf | Pacifico 受到了 20 世纪 50 年代美国冲浪文化的启发。#让我们一起浪起来！||
+11.6 | Iceberg | Iceberg-Regular.ttf | 这款字体中很多字母缺了一块三角#形，让我们联想到冰山的断裂。||
+11.7 | Bevan | Bevan-Regular.ttf | 这是一款对 30 年代字体的复刻体。对早年的字体进行数字化，是一种常见的复刻原因。||
+11.8 | Playfair Display | PlayfairDisplay-Regular.ttf | 如果你在一款字体中看到了Display 字样，这代表该字体是为了大尺寸设计的，通常适用于大字号的标题。||
+11.9 | Passion One | PassionOne-Regular.ttf | 「请只在你最富有激情的项目中使用本字体！」#字体简介如是说。||
+11.10 | Bonbon | Bonbon-Regular.ttf | 棒棒糖的「棒棒」就是从这个单词的谐音来的，是小糖果的意思。 ||
+11.11 | Chathura | Chathura-Regular.ttf | 你没有看错，羡辙也没有故意调整字体名称的字号。它就是一款留白到整个字号相当迷你的字体——以至于字号小的都快跟双十一活动的细则条款一样了。 | 剁手的时候，再小的细则也要看清楚，不要因为盲目而被反薅了哦。 |
+11.12 | Caveat Brush | CaveatBrush-Regular.ttf | 手写体很多，这款字体的特色则是用了较粗的笔刷。因此，它更适合用来做短的注释而非信件这样的长篇手写文字。||
+11.13 | Baloo | Baloo-Regular.ttf | 正如作者对这款字体的形容——厚厚的皮毛下覆盖着尖利的爪子，细节的设计让粗体看起来并不那么笨重，反而有几分优雅。||
+11.14 | ABeeZee | ABeeZee-Regular.ttf | ABeeZee 是一款用于给孩子读写的字体。字体的名称用心地设计成了小孩子念 ABC 发音不标准，念成 ABZ 的感觉，童趣十足！|
+11.15 | Kepler | Kepler Std | 开普勒于 1630 年 11 月 15 日逝世。||
+11.16 | Overpass | Overpass-Regular.ttf | Overpass 的灵感来源于 RedHat 制作的 Highway Gothic。 | 高速公路（Highway）上最常见的是什么呢？当然是超车（Overpass）啦！ |
+11.17 | Jomolhari | Jomolhari-Regular.ttf | Jomolhari 是一款支持藏文的字体，而有趣的是它最初被设计时是被用于印刷不丹文。 | |
+11.18 | Mouse Memoirs | MouseMemoirs-Regular.ttf | 1928 年 11 月 18 日推出的「汽船威利号」中，米奇首次亮相。而迪士尼官方把这一天定为了米奇的生日。 | 这款字体来源于上世纪五六十年代迪士尼出版的动画。 |
+11.19 | Patua One | PatuaOne-Regular.ttf | 厚字重的粗衬线体总能给人一份额外的敦实的感觉，大概是因为底部的粗衬线（Slab）能让人觉得底盘很稳？ | |
+11.20 | Song Myung | SongMyung-Regular.ttf | 又一款韩文母语的字体，和之前介绍过的  Cute Font 一样，最多的用户并不来自韩国。不过上次是中国台湾，而这次是——中国香港。 | |
+11.21 | Poller One | PollerOne-Regular.ttf | 如同之前曾介绍的那样，20世纪初时对比度强烈的非衬线字体是当时的潮流。而从那个时期德国海报汲取灵感的 Poller One 也继承了这种特点。 | |
+11.22 | Long Cang | LongCang-Regular.ttf | 今日小雪 | 写得好看的中文书法字体总让我忍不住放在节气日之上，因为用这些字体引用古文的时候总是能带来极大舒适。 |
+11.23 | Kalam | Kalam-Regular.ttf | Kalam 是一种支持梵文字母的字体。而梵文字母的最大特点，就是大部分字母的顶上同样高的位置都有一条横线，连起来宛如一根超长晾衣杆…… | 横线在哪里？在梵文上，所以并不能在本页日历看到…… |
+11.24 | Varela | Varela-Regular.ttf | 在「正确区分 Arial 和 Helvetica」的游戏里，通关一大秘籍就是观察笔画末端的切口。而 Varela 区别于其他相似字体的最大特征，也正是几乎所有的切口都是水平或者垂直的。 | |
+11.25 | Didact Gothic | DidactGothic-Regular.ttf | Didact Gothic 设计的唯一标准就是长得尽可能像小学课本里教大家写字母的时候用的范本——从这点看还算蛮成功的。 | |
+11.26 | Yrsa | Yrsa-Regular.ttf | 如果你对昨天的内容觉得不能理解，那恭喜你暴露了年龄——确实，二十年前的英语课本上的印刷体还是衬线体，更接近于今天的这款 Yrsa。 | |
+11.27 | Turret Road | TurretRoad-Regular.ttf | 受到早期技术条件的限制，马路上漆的字比较少使用弧线笔画。#而 Turret Road 则模仿了这种风格，成为了一款纯直线构成的字体。 | |
+11.28 | Zilla Slab | ZillaSlab-Regular.ttf | Zilla 这个拼写看上去很眼熟……没错就是 Mozilla 的 zilla。它是 Mozilla 的设计中被广泛使用的一款字体。 | |
+11.29 | Russo One | RussoOne-Regular.ttf | 「谁说咱俄罗斯人只会在冰天雪地里喝到烂醉如泥的？我们一样也能做认真严谨好看的字体！」| —— Russo 字体作者愤愤不平地向本刊表示。 |
+11.30 | Quattrocento Sans | QuattrocentoSans-Regular.ttf | Quattrocento Sans 是 Quattrocento的非衬线版本，同样致力于营造文艺复兴时期的特征。虽然那个时候并没有非衬线体，但同样宽阔圆润的字腔（特别是大写字母 Q）还是能够带来优雅的感觉。 | |
+12.1 | Odibee Sans | OdibeeSans-Regular.ttf | 罗马不是一日建成的，#但这款字体却可以。 | Odibee 是「One Day Build」的意思，作者在 24 小时内从零开始完成了设计这款字体的全部工作。 |
+12.2 | Public Sans | PublicSans-Regular.ttf | 虽然说众口难调，但是总有一些工作需要去调众口，比如给有关部门的网站上设计所使用的字体。 | 美国的一个机构为政府网站开发了一套框架，以方便各部门快速制作风格统一且易于阅读的官方网站，而 Public Sans 便是这套框架 VI 中所推荐使用的字体。 |
+12.3 | Nanum Myeongjo | NanumMyeongjo-Regular.ttf | 如果说西文字体的衬线来源于碑刻，那么东方文字的衬线则大概来源于书法笔锋——不仅是汉字，韩文也是如此。 | 它是这本日历上出现的第三个为韩语设计的字#体，这回终于是韩国用户最多了…… |
+12.4 | Baloo Bhai | BalooBhai-Regular.ttf | 天冷的时候要多穿些厚实的衣服，那么是不是也要用一些厚实的字体来暖和暖和？ | |
+12.5 | Ruda | Ruda-Regular.ttf | 传统的四线三格的字母书写的方式会使得小写字母在小字号下显得过小而难以分辨。对于像产品标签这样的应用场景而言，小号字体的辨识度则至关重要。专为小字号设计的 Ruda 提高了小写字母的高度来增加辨识度。 |  |
+12.6 | Staatliches | Staatliches-Regular.ttf | 现代艺术史中，「包豪斯」是一个不可或缺的存在，而这款字体正是模仿了首次包豪斯举办的展览上的所用到的封面字体。 |  |
+12.7 | Reenie Beanie | ReenieBeanie-Regular.ttf | 在「书法」这件事情上，好像人们总是默认用的是毛笔或者钢笔，再不济也是特定的水笔，似乎圆珠笔一直处于鄙视链的底端。但圆珠笔也能写出像 Reenie Beanie 这样好看的字呀！ |  |
+12.8 | Quantico | Quantico-Regular.ttf | 之前已经出现过一些全部由直线构成的字体，而 Quantico 的强迫症似乎更重一些——所有的倾角都是 30 度 | 倒是很适合一把三角尺一条路走到底…… |
+12.9 | Trade Winds | TradeWinds-Regular.ttf | 「贵校校风如何？」 #「很大，大到把字吹歪的那种……」 | |
+12.10 | Inconsolata | Inconsolata-Regular.ttf | 「为程序开发而设计的等宽字体大多比较粗糙，打到纸上的时候看上去会因为分辨率低而不太舒服，这款字体就很好地解决了这个问题。」 | 都 9102 年了，还有人会把代码打出来阅读吗？大概还是有的吧，不然哪来「间谍千辛万苦偷到了机密程序的最后一页代码，却发现全都是大括号」的梗呢？ |
+12.11 | Taviraj | Taviraj-Regular.ttf | Taviraj 这个名字源于曼谷王朝最后两位皇帝的名字，所以显而易见这是一款包含了泰语字母的字体。 | |
 -->
-
+12.12 | Pathway Gothic One | PathwayGothicOne-Regular.ttf | Gothic 直译是「哥特体」，但它并不特指中世纪那种华丽繁复的哥特式字体，而是取这个单词「野蛮的」的词义，因为早期的非衬线体在保守人士看来是非常离经叛道的。 |  |
 <!--
-2.1 | Vectora | Vectora LT Pro 55 Roman | Vectora的小写字母比大写字母小不了多少，使得其非常适合在小字号下使用 ||
-2.20 | Grand Italic | North Type - NTF-Grand Italic.otf | 笔直的线条总给人一股冷酷的感觉，再粗一点就能拿来给碟中谍做片头了吧。 ||
-2.23 | PhotoWall Sans Shadow | PhotoWallSansShadow-Regular.otf | 利用阴影来制造立体感已经是一种古老的套路，却依旧能骗到一双双眼睛。 ||
-2.27 | Sacramento | Sacramento-Regular.ttf | 即便只有一条细线，照样能耍出花样。 ||
-2.28 | Blitz | Wiescher Design - Blitz-Thin.otf | 头重脚轻往往容易给人一种摇摇欲坠的感觉，在字体里进行这样的尝试却有意外的动感收获 ||
-10.20 | Ubuntu | Ubuntu release ||
-10.24 | Hack | 又一款专为代码编辑设计的字体 ||
-11.15 | Kepler | | | 开普勒于 1630 年 11 月 15 日逝世。|
-12.21 | Agency FB | ||
-12.31 | Coming Soon |||
--->
+12.13 | Yeseva One | YesevaOne-Regular.ttf | 其实爱对了人，情人节每天都过。 | 虽然衬线体多因为衬线的棱角而显得冰冷，但作者依旧试图用为其增加一份柔和的形式，来表达自己感受到的妻子的爱。 |
+12.14 | Vidaloka | Vidaloka-Regular.ttf | 认真严肃的字形，充满巴洛克风格的小尾巴（以大写 Q 为典型），粗细对比强烈的笔画……看上去是不是特别适合放进五线谱里？ | |
+12.15 | Nanum Pen Script | NanumPenScript-Regular.ttf | 它和两周前的 Nanum Myeongjo 属于同一个系列，却恰恰来自庄严和俏皮的两端。 |  |
+12.16 | Squada One | SquadaOne-Regular.ttf | 字腔如同它的名字一样——「方头方脑」说得就是它了！ | |
+12.17 | Playball | Playball-Regular.ttf | 作者把它命名为Playball是因为他认为这样的字体最适合运动赛事场合。 | 不过，我选择把它放进来是因为，它没有利用OpenType对字母变形 依旧把书写英文字母时那些连笔处理的相当自然。 |
+12.18 | Source Code Pro | SourceCodePro-Regular.ttf | Source Code Pro是大名鼎鼎的「思源」系列为编程环境设计的等宽字体版本。尽管它主要服务于显示代码，设计师们还是很认真的完成了从极细体到极粗体所有字重的版本。 | 但是，即便我想用奇葩的字重，我的IDE也只允许我换字体不允许换字重啊= = |
+12.19 | Grand Hotel | GrandHotel-Regular.ttf | 这一字体灵感来源于一部上世纪30年代的老电影，而它和以前街边的霓虹灯上有点歪歪扭扭的字母确有几分神似 | |
+12.20 | Lusitana | Lusitana-Regular.ttf | Lusitana源于葡萄牙重要文学作品「葡国魂」1572年首次印刷时使用的字体。 | 相传诗人在澳门白鸽巢公园的石洞内完成了诗歌的一部分，每年许多葡萄牙人都会前往纪念，在澳门回归后也保留了这样的传统。 | |
+12.21 | Agency FB | Agency FB | 转眼「世界末日」的传言已经整整过去了七年，还记得七年前看2012的时候是怎样的感受吗？ | 电影2012的标题使用的就是Agency FB字体 |
+12.22 | Liu Jian Mao Cao | LiuJianMaoCao-Regular.ttf | 「冬天来了，春天还会远吗？」 | 今日冬至。我国部分地区有从冬至起数九的传统，作为对春天的一种盼望。 |
+12.23 | Itim | Itim-Regular.ttf | 「别打了！这不是Comic Sans…」 |  |
+12.24 | Ruge Boogie | RugeBoogie-Regular.ttf | 想要办个圣诞趴？Ruge Boogie这样蹦蹦跳跳的字体肯定是一个不错的选择。 | |
+12.25 | Titan One | TitanOne-Regular.ttf | Titan是希腊神话中最早统治世界的神族，后来这个词被引申做重要人物的含义。至于字体中的Titan，当然至少要实现「重量级」这个特征啦。 | | 
+12.26 | Nixie One | NixieOne-Regular.ttf | 「在这个设计里我们融合了霓虹灯字母和打字机字母的特征，就像中餐里菠萝和鸡混搭一样，听上去这个组合很诡异但事实上味道不错」 | 看来，这个字体该叫咕老肉才对 |
+12.27 | 站酷高端黑 | ZCoolGaoDuanHei.ttf | 对，这就是站酷第一款由众人合作完成的免费字体。 | 人果然是不能给自己随意挖坑，9月份在这本日历里埋得关于站酷的伏笔，到年底才想起来填上这个坑… |
+12.28 | Forum | Forum-Regular.ttf | 在论坛（Forum）这样的正式场合中，偏向传统风格的罗马字体往往有显得高端大气上档次的效果。 | 请注意定语...随随便便把Times New Roman到处放那是没有这个效果的... |
+12.29 | Tomorrow | Tomorrow-Regular.ttf | 明日复明日，但转眼之间2019年就只剩下最后三天了呢 | |
+12.30 | Coming Soon | ComingSoon-Regular.ttf | 是不是已经开始期待压轴的字体了呢？明天10点就能看到啦 | |
+12.31 | Coda | Coda-Regular.ttf | 如果这本日历是一本乐谱，那今天就是该画上终止线的时候了。 | Coda在乐谱上意为终止线 |
 `;
